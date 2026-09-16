@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.CloudStore.dll",
+  "latest": "4159505636-ABD2661654539EEF55DF65E3BD3418C4-1",
+  "builds": [
+    {
+      "key": "4159505636-ABD2661654539EEF55DF65E3BD3418C4-1",
+      "timestamp": "4159505636",
+      "pdb_guid": "ABD2661654539EEF55DF65E3BD3418C4",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/4159505636-ABD2661654539EEF55DF65E3BD3418C4-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}

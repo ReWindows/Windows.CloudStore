@@ -1,0 +1,12 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from Windows.CloudStore.dll by Windissect. 1 member(s).
+namespace winrt::Windows::Security::Authentication::Web::Core {
+class IWebTokenResponse {
+public:
+    // Category: Dtor | Source: PDB Internal
+    // Symbol: ??1IWebTokenResponse@Core@Web@Authentication@Security@Windows@winrt@@QEAA@XZ
+    ~IWebTokenResponse();
+};
+} // namespace winrt::Windows::Security::Authentication::Web::Core
